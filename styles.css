@@ -1,0 +1,35 @@
+.intro-title {
+    text-transform: uppercase;
+}
+
+.intro-content {
+    background-image: url('images/death-star.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #d3e1e8;
+}
+
+.intro-content span,
+.movie-suggest {
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    letter-spacing: 0.125rem;
+}
+
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.poster {
+    height: 20rem;
+    width: auto;
+}
+
+.to-animate a:link,
+.to-animate a:visited,
+.to-animate a:hover,
+.to-animate a:active {
+    text-decoration: none;
+    color: #212529;
+}
